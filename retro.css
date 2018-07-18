@@ -8,12 +8,25 @@ nav{
 }
 #linhaTexto{
     background-color: white;
-    margin-top: 35%;
-    margin-bottom: 35%;
+    margin-top: 15%;
+    margin-bottom: 30%;
+    padding-bottom: 3%;
+    padding-top: 3%
 }
 
 .page-footer{
     background-color: white;
     color: black;
 }
+.footer-copyright{
+    color: black;
+}
 
+.icones{
+    width:30px;
+    height:30px;
+    border:0;
+}
+.container{
+    color: black;
+}
