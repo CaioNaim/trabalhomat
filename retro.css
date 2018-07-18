@@ -30,3 +30,9 @@ nav{
 .container{
     color: black;
 }
+
+.logo{
+    width:90px;
+    height:90px;
+    border:0;
+}
