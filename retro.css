@@ -1,0 +1,19 @@
+body{
+    background-image: url("img/background/record-player.jpg");
+    background-attachment: fixed;
+}
+nav{
+    font-family: "Courier New";
+
+}
+#linhaTexto{
+    background-color: white;
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
+
+.page-footer{
+    background-color: white;
+    color: black;
+}
+
